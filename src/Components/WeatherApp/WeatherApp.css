@@ -52,7 +52,7 @@
     color: white;
     font-size: 120px;
     font-weight: 300;
-
+    
 }
 .weather-location{
     display: flex;
@@ -61,7 +61,7 @@
     font-size: 60px;
     font-weight: 300; 
 }
-
+    
 .date-container{
     margin-top: 50px;
     color: white;
